@@ -1,0 +1,27 @@
+.rotate {
+    animation: rotation 8s infinite linear;
+}
+  
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+}
+
+.pokemon {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    height: 550px;
+    background-color: #09182E;
+}
+
