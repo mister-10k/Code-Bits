@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+
+.container-1 {
+  background-color: #282C35;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.container-2 {
+  background-color: #282C35;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.img-2 {
+  height: 373px;
+}
+
+.container-3 {
+  background-color: #282C35;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
